@@ -1,0 +1,1 @@
+*{box-sizing:border-box;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}html,body{height:100%}html{font-size:calc(var(--font-size) - 1px);line-height:calc(var(--line-height) - 1px)}body{font-family:Roboto Mono,monospace;margin:0;color:var(--text-color);background-color:var(--background-color)}
